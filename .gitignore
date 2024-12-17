@@ -1,5 +1,5 @@
 .svn/
-/build/
-/DerivedDataCache/
-/Intermediate/
-/Script/
+build/
+DerivedDataCache/
+Intermediate/
+Script/
